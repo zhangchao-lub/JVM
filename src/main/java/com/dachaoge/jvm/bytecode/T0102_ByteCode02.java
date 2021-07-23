@@ -1,4 +1,4 @@
-package bytecode;
+package com.dachaoge.jvm.bytecode;
 
 /**
  * @author czhang@mindpointeye.com
@@ -6,7 +6,6 @@ package bytecode;
  * @Date 2021/7/14 16:20
  * @descrption
  */
-public class T0103_ByteCode03 {
+public class T0102_ByteCode02 {
     int i = 888;
-    String s = "Hello ByteCode!";
 }

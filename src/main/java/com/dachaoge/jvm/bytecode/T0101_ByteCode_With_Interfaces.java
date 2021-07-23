@@ -1,4 +1,4 @@
-package bytecode;
+package com.dachaoge.jvm.bytecode;
 
 import java.io.Serializable;
 

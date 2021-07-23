@@ -1,4 +1,4 @@
-package bytecode;
+package com.dachaoge.jvm.bytecode;
 
 /**
  * @author czhang@mindpointeye.com
